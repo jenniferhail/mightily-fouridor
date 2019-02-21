@@ -1,1 +1,1 @@
-console.log("ticpe")
+console.log("gwraq")
