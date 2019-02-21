@@ -10,5 +10,4 @@
         echo "buwoi";
         echo "wcgtt";
         echo "mxcnh";
-        echo "sfvsg";
 ?>
